@@ -19,6 +19,7 @@ html{
 
 /*   MOBILE   */
 body{
+    height: 800px;
     background: rgb(228,247,255);
     background: linear-gradient(151deg, rgba(228,247,255,1) 0%, rgba(201,238,255,1) 50%, rgba(182,232,255,1) 100%);
 }
